@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-relayer-client",
+  "description": "Typed client interfaces for privacy-preserving relayer interactions.",
+  "maturity": "Reference client contract",
+  "network": "Mocks and local development only",
+  "topics": ["privacy-pump", "typescript", "sdk", "solana", "privacy"],
+  "visibility": "public-after-verification"
+}
